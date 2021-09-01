@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator Chmod</string>
+    <string name="permission_owner">Owner</string>
+    <string name="permission_group">Group</string>
+    <string name="permission_public">Public</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="execute">Execute</string>
+    <string name="calculator">Calculator</string>
+    <string name="absolute_mode">Absolute Mode</string>
+    <string name="symbolic_mode">Symbolic Mode</string>
+    <string name="absolute_mode_none">000</string>
+    <string name="symbolic_mode_none">---------</string>
+</resources>
